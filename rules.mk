@@ -3,7 +3,6 @@
 CONSOLE_ENABLE = no
 COMMAND_ENABLE = no
 DYNAMIC_MACRO_ENABLE = yes
-
 SRC = matrix.c
 
 # Custom rules
